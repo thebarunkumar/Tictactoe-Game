@@ -1,5 +1,6 @@
 # Tictactoe-Game
-* The Tic Tac Toe game is a game for two players, who take turns marking the spaces in a 3×3 grid. The player who succeeded in placing three respective marks in a horizontal, vertical, or diagonal row wins the game.
+* A minimalist Tic Tac Toe app designed for both casual and competitive play. Featuring single-player mode with AI and multiplayer options, the app offers a smooth and engaging user experience. Its offline capability ensures that players can enjoy the game anytime, anywhere. The app's intuitive design, along with customizable sound and vibration settings, makes it a perfect pastime for all ages.
+
 
 
 
@@ -23,13 +24,14 @@ https://user-images.githubusercontent.com/62107887/130690253-f670eb6f-33ff-4abf-
 * On or Off sound and vibration.
 * Attractive Design (Minimal Design)
 
+* The Tic Tac Toe game is a game for two players, who take turns marking the spaces in a 3×3 grid. The player who succeeded in placing three respective marks in a horizontal, vertical, or diagonal row wins the game.
 
 
 ## In this Tic Tac Toe game you have two options:
 * Play with Computer
 * Play with Friend
 
-The Tic Tac Toe is a great way to pass your free time whether you're standing in a line or spending time with your kids. Its offline App means you do not need of internet to play. Because of the simplicity of Tic Tac Toe, it is often used as a pedagogical tool for teaching the concepts of good sportsmanship and the branch of artificial intelligence.
+* The Tic Tac Toe is a great way to pass your free time whether you're standing in a line or spending time with your kids. Its offline App means you do not need of internet to play. Because of the simplicity of Tic Tac Toe, it is often used as a pedagogical tool for teaching the concepts of good sportsmanship and the branch of artificial intelligence.
 
 
 
